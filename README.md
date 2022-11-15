@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @azkar-sh
+## Hi! Nice to Meet You!
+
+-  👋 Hi, I’m @azkar-sh
 - 👀 I’m interested in programming, 🎮 casual gamming, 🎶🎧 music, and 📽️ anime
 - 🌱 I’m currently learning HTML, Javascript
 - 💞️ I’m looking to collaborate on exploring better explanation for beginner programmer
